@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/bin/com/mypro/model/fish/Fish.class" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class" line="20" />
+    <bookmark url="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class" line="23" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a60d28f-59f6-4bdb-9aef-4db9052a3d2b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="setting.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bg/setting.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bg/start.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Canvas.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Canvas.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624379" expanded="false" signature="0:104" ph="/.../" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bitmap.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Bitmap.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624394" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1479979624394" expanded="false" signature="147:291" ph="..." />
+                <marker date="1479979624394" expanded="false" signature="411:422" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="441:447" ph=" }" />
+                <marker date="1479979624394" expanded="false" signature="476:487" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="505:511" ph=" }" />
+                <marker date="1479979624394" expanded="false" signature="538:549" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="597:603" ph=" }" />
+                <marker date="1479979624394" expanded="false" signature="631:642" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="691:697" ph=" }" />
+                <marker date="1479979624394" expanded="true" signature="790:1047" ph="{...}" />
+                <marker date="1479979624394" expanded="false" signature="1098:1109" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="1127:1133" ph=" }" />
+                <marker date="1479979624394" expanded="true" signature="1160:1390" ph="{...}" />
+                <marker date="1479979624394" expanded="false" signature="1429:1440" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="1471:1477" ph=" }" />
+                <marker date="1479979624394" expanded="false" signature="1528:1539" ph=" { " />
+                <marker date="1479979624394" expanded="false" signature="1570:1576" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Matrix.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624363" expanded="false" signature="0:104" ph="/.../" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Paint.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Paint.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624345" expanded="false" signature="0:104" ph="/.../" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.class" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/tools/Log.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624421" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1479979624421" expanded="true" signature="173:180" ph="{}" />
+                <marker date="1479979624421" expanded="false" signature="232:243" ph=" { " />
+                <marker date="1479979624421" expanded="false" signature="292:298" ph=" }" />
+                <marker date="1479979624421" expanded="false" signature="350:361" ph=" { " />
+                <marker date="1479979624421" expanded="false" signature="412:418" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AwtMainComponet.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+              <folding>
+                <marker date="1479979624483" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1479979624483" expanded="false" signature="146:514" ph="..." />
+                <marker date="1479979624483" expanded="true" signature="576:583" ph="{}" />
+                <marker date="1479979624483" expanded="true" signature="645:2270" ph="{...}" />
+                <marker date="1479979624483" expanded="true" signature="1410:2074" ph="{...}" />
+                <marker date="1479979624483" expanded="true" signature="1464:1479" ph="{}" />
+                <marker date="1479979624483" expanded="true" signature="1532:1861" ph="{...}" />
+                <marker date="1479979624483" expanded="true" signature="1913:1928" ph="{}" />
+                <marker date="1479979624483" expanded="true" signature="1981:1996" ph="{}" />
+                <marker date="1479979624483" expanded="true" signature="2049:2064" ph="{}" />
+                <marker date="1479979624483" expanded="false" signature="2120:2185" ph="run() → { " />
+                <marker date="1479979624483" expanded="false" signature="2229:2253" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodingAudioPlayer.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/DecodingAudioPlayer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624463" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1479979624463" expanded="false" signature="146:499" ph="..." />
+                <marker date="1479979624463" expanded="true" signature="630:637" ph="{}" />
+                <marker date="1479979624463" expanded="true" signature="682:2210" ph="{...}" />
+                <marker date="1479979624463" expanded="true" signature="2255:2385" ph="{...}" />
+                <marker date="1479979624463" expanded="false" signature="2433:2444" ph=" { " />
+                <marker date="1479979624463" expanded="false" signature="2475:2481" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JMatrix.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/JMatrix.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1479979624444" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1479979624444" expanded="false" signature="146:215" ph="..." />
+                <marker date="1479979624444" expanded="true" signature="338:345" ph="{}" />
+                <marker date="1479979624444" expanded="true" signature="371:378" ph="{}" />
+                <marker date="1479979624444" expanded="false" signature="426:437" ph=" { " />
+                <marker date="1479979624444" expanded="false" signature="487:493" ph=" }" />
+                <marker date="1479979624444" expanded="false" signature="537:548" ph=" { " />
+                <marker date="1479979624444" expanded="false" signature="587:593" ph=" }" />
+                <marker date="1479979624444" expanded="true" signature="652:739" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="256" />
+    <option name="y" value="179" />
+    <option name="width" value="1382" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FishGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FishGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mypro" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DecodingAudioPlayer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="AwtMainComponet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mypro.basecomponet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mypro.basecomponet.AwtMainComponet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FishGame" />
+      <envs />
+    </configuration>
+    <configuration name="DecodingAudioPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mypro.basecomponet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mypro.basecomponet.DecodingAudioPlayer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FishGame" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.AwtMainComponet" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DecodingAudioPlayer" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.DecodingAudioPlayer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AwtMainComponet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a60d28f-59f6-4bdb-9aef-4db9052a3d2b" name="Default" comment="" />
+      <created>1541725556010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541725556010</updated>
+      <workItem from="1541725557953" duration="1585000" />
+      <workItem from="1541751207333" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1671000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="256" y="179" width="1382" height="813" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="856" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bg/setting.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/start.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Canvas.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624379" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Bitmap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624394" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624394" expanded="false" signature="147:291" ph="..." />
+            <marker date="1479979624394" expanded="false" signature="411:422" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="441:447" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="476:487" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="505:511" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="538:549" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="597:603" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="631:642" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="691:697" ph=" }" />
+            <marker date="1479979624394" expanded="true" signature="790:1047" ph="{...}" />
+            <marker date="1479979624394" expanded="false" signature="1098:1109" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="1127:1133" ph=" }" />
+            <marker date="1479979624394" expanded="true" signature="1160:1390" ph="{...}" />
+            <marker date="1479979624394" expanded="false" signature="1429:1440" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="1471:1477" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="1528:1539" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="1570:1576" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Matrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624363" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Paint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624345" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/tools/Log.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624421" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624421" expanded="true" signature="173:180" ph="{}" />
+            <marker date="1479979624421" expanded="false" signature="232:243" ph=" { " />
+            <marker date="1479979624421" expanded="false" signature="292:298" ph=" }" />
+            <marker date="1479979624421" expanded="false" signature="350:361" ph=" { " />
+            <marker date="1479979624421" expanded="false" signature="412:418" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+          <folding>
+            <marker date="1479979624483" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624483" expanded="false" signature="146:514" ph="..." />
+            <marker date="1479979624483" expanded="true" signature="576:583" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="645:2270" ph="{...}" />
+            <marker date="1479979624483" expanded="true" signature="1410:2074" ph="{...}" />
+            <marker date="1479979624483" expanded="true" signature="1464:1479" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="1532:1861" ph="{...}" />
+            <marker date="1479979624483" expanded="true" signature="1913:1928" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="1981:1996" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="2049:2064" ph="{}" />
+            <marker date="1479979624483" expanded="false" signature="2120:2185" ph="run() → { " />
+            <marker date="1479979624483" expanded="false" signature="2229:2253" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/DecodingAudioPlayer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624463" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624463" expanded="false" signature="146:499" ph="..." />
+            <marker date="1479979624463" expanded="true" signature="630:637" ph="{}" />
+            <marker date="1479979624463" expanded="true" signature="682:2210" ph="{...}" />
+            <marker date="1479979624463" expanded="true" signature="2255:2385" ph="{...}" />
+            <marker date="1479979624463" expanded="false" signature="2433:2444" ph=" { " />
+            <marker date="1479979624463" expanded="false" signature="2475:2481" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/JMatrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624444" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624444" expanded="false" signature="146:215" ph="..." />
+            <marker date="1479979624444" expanded="true" signature="338:345" ph="{}" />
+            <marker date="1479979624444" expanded="true" signature="371:378" ph="{}" />
+            <marker date="1479979624444" expanded="false" signature="426:437" ph=" { " />
+            <marker date="1479979624444" expanded="false" signature="487:493" ph=" }" />
+            <marker date="1479979624444" expanded="false" signature="537:548" ph=" { " />
+            <marker date="1479979624444" expanded="false" signature="587:593" ph=" }" />
+            <marker date="1479979624444" expanded="true" signature="652:739" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/model/fish/Fish.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#5123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mypro/model/fish/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/fishlightbg_0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/fishlightbg_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/fishlightbg_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/fishlightbg_4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/fishlightbg_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/setting.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg/start.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Canvas.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624379" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Bitmap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624394" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624394" expanded="false" signature="147:291" ph="..." />
+            <marker date="1479979624394" expanded="false" signature="411:422" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="441:447" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="476:487" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="505:511" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="538:549" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="597:603" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="631:642" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="691:697" ph=" }" />
+            <marker date="1479979624394" expanded="true" signature="790:1047" ph="{...}" />
+            <marker date="1479979624394" expanded="false" signature="1098:1109" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="1127:1133" ph=" }" />
+            <marker date="1479979624394" expanded="true" signature="1160:1390" ph="{...}" />
+            <marker date="1479979624394" expanded="false" signature="1429:1440" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="1471:1477" ph=" }" />
+            <marker date="1479979624394" expanded="false" signature="1528:1539" ph=" { " />
+            <marker date="1479979624394" expanded="false" signature="1570:1576" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Matrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624363" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/graphics/Paint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624345" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/AwtMainComponet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+          <folding>
+            <marker date="1479979624483" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624483" expanded="false" signature="146:514" ph="..." />
+            <marker date="1479979624483" expanded="true" signature="576:583" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="645:2270" ph="{...}" />
+            <marker date="1479979624483" expanded="true" signature="1410:2074" ph="{...}" />
+            <marker date="1479979624483" expanded="true" signature="1464:1479" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="1532:1861" ph="{...}" />
+            <marker date="1479979624483" expanded="true" signature="1913:1928" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="1981:1996" ph="{}" />
+            <marker date="1479979624483" expanded="true" signature="2049:2064" ph="{}" />
+            <marker date="1479979624483" expanded="false" signature="2120:2185" ph="run() → { " />
+            <marker date="1479979624483" expanded="false" signature="2229:2253" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/DecodingAudioPlayer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624463" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624463" expanded="false" signature="146:499" ph="..." />
+            <marker date="1479979624463" expanded="true" signature="630:637" ph="{}" />
+            <marker date="1479979624463" expanded="true" signature="682:2210" ph="{...}" />
+            <marker date="1479979624463" expanded="true" signature="2255:2385" ph="{...}" />
+            <marker date="1479979624463" expanded="false" signature="2433:2444" ph=" { " />
+            <marker date="1479979624463" expanded="false" signature="2475:2481" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/basecomponet/JMatrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624444" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624444" expanded="false" signature="146:215" ph="..." />
+            <marker date="1479979624444" expanded="true" signature="338:345" ph="{}" />
+            <marker date="1479979624444" expanded="true" signature="371:378" ph="{}" />
+            <marker date="1479979624444" expanded="false" signature="426:437" ph=" { " />
+            <marker date="1479979624444" expanded="false" signature="487:493" ph=" }" />
+            <marker date="1479979624444" expanded="false" signature="537:548" ph=" { " />
+            <marker date="1479979624444" expanded="false" signature="587:593" ph=" }" />
+            <marker date="1479979624444" expanded="true" signature="652:739" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/com/mypro/base/tools/Log.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1479979624421" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1479979624421" expanded="true" signature="173:180" ph="{}" />
+            <marker date="1479979624421" expanded="false" signature="232:243" ph=" { " />
+            <marker date="1479979624421" expanded="false" signature="292:298" ph=" }" />
+            <marker date="1479979624421" expanded="false" signature="350:361" ph=" { " />
+            <marker date="1479979624421" expanded="false" signature="412:418" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
